@@ -16,6 +16,7 @@ donotupload.ipynb
 # Data files #
 ##############
 *.csv
+*.json
 *.zip
 *.csv.gz
 *.gif
